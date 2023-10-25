@@ -1,0 +1,76 @@
+/* App.css */
+.App {
+  text-align: center;
+  background-color: #f0f8ff; /* Light blue background for overall aesthetic */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.field {
+  display: flex;
+  justify-content: space-between;
+  background: #006400; /* Darker green for the field */
+  position: relative;
+  width: 90%; /* Adjusted width */
+  height: 1000px; /* Adjusted height */
+  margin-top: 20px;
+  border-radius: 5px; /* Rounded corners */
+  overflow: hidden; /* Keep children elements within the field */
+}
+
+.field::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 4px; /* Slightly thicker line */
+  height: 100%;
+  background-color: #fff;
+}
+
+.team {
+  position: absolute;
+  width: 50%;
+}
+
+.team:nth-child(1) {
+  left: 0;
+  color: #fff; /* White color for Tottenham */
+}
+
+.team:nth-child(2) {
+  right: 0;
+  color: #ff0000; /* Red color for Liverpool */
+}
+
+.formation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.formation > div {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.defenders, .forwards, .goalkeeper {
+  width: 80%;
+}
+.midfielders{
+  width: 40%
+}
+
+.team h2 {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  padding: 10px;
+  border-radius: 5px;
+  width: fit-content;
+  margin: 12px auto;
+}
