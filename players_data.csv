@@ -1,0 +1,33 @@
+player_id,team_id,image_path,name,position,detailed_position,position_name,broad_position,average_rating,consistency_rating,normalized_consistency
+540579,6,https://cdn.sportmonks.com/images/soccer/players/3/540579.png,Oliver Skipp,26,149,Defensive Midfield,Midfielder,6.71,-0.6100000000000003,8.342391304347826
+1744,6,https://cdn.sportmonks.com/images/soccer/players/16/1744.png,Pierre-Emile Højbjerg,26,153,Central Midfield,Midfielder,6.87,-0.9100000000000001,7.527173913043478
+4313,6,https://cdn.sportmonks.com/images/soccer/players/25/4313.png,Heung-min Son,27,152,Left Wing,Attacker,7.88,-2.76,2.5000000000000018
+96870,6,https://cdn.sportmonks.com/images/soccer/players/6/96870.png,Yves Bissouma,26,153,Central Midfield,Midfielder,7.48,-1.8399999999999999,5.000000000000001
+219633,6,https://cdn.sportmonks.com/images/soccer/players/17/219633.png,Richarlison,27,151,Centre Forward,Attacker,6.78,-1.6300000000000008,5.570652173913042
+6838,6,https://cdn.sportmonks.com/images/soccer/players/22/6838.png,James Maddison,26,150,Attacking Midfield,Midfielder,8.21,-1.0199999999999996,7.2282608695652195
+133779,6,https://cdn.sportmonks.com/images/soccer/players/19/133779.png,Guglielmo Vicario,24,24,Goalkeeper,Goalkeeper,7.38,-1.4299999999999997,6.114130434782609
+333731,6,https://cdn.sportmonks.com/images/soccer/players/3/333731.png,Cristian Romero,25,148,Centre Back,Defender,7.54,-1.7400000000000002,5.271739130434783
+14338024,6,https://cdn.sportmonks.com/images/soccer/players/8/14338024.png,Dejan Kulusevski,27,156,Right Wing,Attacker,7.38,-1.5300000000000002,5.842391304347826
+8456257,6,https://cdn.sportmonks.com/images/soccer/players/1/8456257.png,Pedro Porro,25,154,Right Back,Defender,7.69,-1.8399999999999999,5.000000000000001
+125482,6,https://cdn.sportmonks.com/images/soccer/players/10/125482.png,Manor Solomon,27,152,Left Wing,Attacker,7.42,-1.9399999999999995,4.7282608695652195
+37342694,6,https://cdn.sportmonks.com/images/soccer/players/6/37342694.png,Pape Matar Sarr,26,153,Central Midfield,Midfielder,7.48,-1.7400000000000002,5.271739130434783
+989,6,https://cdn.sportmonks.com/images/soccer/players/29/989.png,Ben Davies,25,155,Left Back,Defender,6.89,-0.3099999999999996,9.157608695652176
+37568165,6,https://cdn.sportmonks.com/images/soccer/players/5/37568165.png,Alejo Véliz,27,151,Centre Forward,Attacker,6.43,-0.0,10.0
+37296248,6,https://cdn.sportmonks.com/images/soccer/players/24/37296248.png,Micky van de Ven,25,148,Centre Back,Defender,7.24,-1.33,6.385869565217392
+32777506,6,https://cdn.sportmonks.com/images/soccer/players/2/32777506.png,Destiny Udogie,25,155,Left Back,Defender,7.31,-1.6300000000000008,5.570652173913042
+129820,8,https://cdn.sportmonks.com/images/soccer/players/28/129820.png,Alisson,24,24,Goalkeeper,Goalkeeper,7.36,-2.450000000000001,3.3423913043478244
+1453,8,https://cdn.sportmonks.com/images/soccer/players/13/1453.png,Joe Gomez,25,148,Centre Back,Defender,7.1,-0.6200000000000001,8.315217391304348
+309344,8,https://cdn.sportmonks.com/images/soccer/players/0/309344.png,Wataru Endo,26,149,Defensive Midfield,Midfielder,6.56,-0.7199999999999998,8.043478260869566
+1743,8,https://cdn.sportmonks.com/images/soccer/players/15/1743.png,Virgil van Dijk,25,148,Centre Back,Defender,7.37,-3.6800000000000006,0.0
+100556,8,https://cdn.sportmonks.com/images/soccer/players/12/100556.png,Ibrahima Konaté,25,148,Centre Back,Defender,6.95,-0.9100000000000001,7.527173913043478
+241036,8,https://cdn.sportmonks.com/images/soccer/players/12/241036.png,Luis Díaz,27,152,Left Wing,Attacker,7.15,-1.7400000000000002,5.271739130434783
+785998,8,https://cdn.sportmonks.com/images/soccer/players/14/785998.png,Dominik Szoboszlai,26,153,Central Midfield,Midfielder,7.47,-1.0199999999999996,7.2282608695652195
+216612,8,https://cdn.sportmonks.com/images/soccer/players/4/216612.png,Alexis Mac Allister,26,153,Central Midfield,Midfielder,7.17,-1.2199999999999998,6.684782608695653
+4125,8,https://cdn.sportmonks.com/images/soccer/players/29/4125.png,Mohamed Salah,27,156,Right Wing,Attacker,8.0,-2.139999999999999,4.184782608695656
+4545513,8,https://cdn.sportmonks.com/images/soccer/players/9/4545513.png,Curtis Jones,26,26,Midfielder,Midfielder,6.47,-2.1399999999999997,4.184782608695654
+30062,8,https://cdn.sportmonks.com/images/soccer/players/14/30062.png,Cody Gakpo,27,152,Left Wing,Attacker,6.97,-1.0200000000000005,7.228260869565216
+159917,8,https://cdn.sportmonks.com/images/soccer/players/13/159917.png,Diogo Jota,27,27,Attacker,Attacker,7.1,-3.170000000000001,1.3858695652173905
+1078,8,https://cdn.sportmonks.com/images/soccer/players/22/1078.png,Andrew Robertson,25,155,Left Back,Defender,7.27,-1.6300000000000008,5.570652173913042
+1920,8,https://cdn.sportmonks.com/images/soccer/players/0/1920.png,Joël Matip,25,148,Centre Back,Defender,7.13,-0.6200000000000001,8.315217391304348
+5270462,8,https://cdn.sportmonks.com/images/soccer/players/30/5270462.png,Ryan Gravenberch,26,153,Central Midfield,Midfielder,6.73,-0.9100000000000001,7.527173913043478
+1917,8,https://cdn.sportmonks.com/images/soccer/players/29/1917.png,Trent Alexander-Arnold,25,154,Right Back,Defender,7.04,-2.2399999999999993,3.9130434782608727
